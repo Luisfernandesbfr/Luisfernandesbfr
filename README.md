@@ -44,10 +44,8 @@ Atualmente atuo como **Analista de BI em uma Distribuidora de Cereais**.
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luisfernandesbfr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisfernandesbfr&layout=compact&theme=dracula"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luisfernandesbfr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisfernandesbfr&layout=compact&theme=dracula)
 
 ---
 
